@@ -9,3 +9,4 @@ this repository contains my latest works from joyrney of learning programming as
   - Random Forest
   - XGBoost
   - KNN
+  - KMeans
