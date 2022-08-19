@@ -5,8 +5,11 @@ this repository contains my latest works from joyrney of learning programming as
   - Pandas
   - Numpy 
   - Matplotlib
-- ML
+- Machine Learning
   - Random Forest
   - XGBoost
   - KNN
   - KMeans
+- Deep Learnign
+  - Keras
+  - Optimization
