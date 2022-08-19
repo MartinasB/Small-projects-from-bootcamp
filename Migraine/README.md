@@ -1,4 +1,4 @@
-### Migraine
+# Migraine
 - OneHotEncoding
 - Artificial Neutral Network setup
 - ANN Optimization:
