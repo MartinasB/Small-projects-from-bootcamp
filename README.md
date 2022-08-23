@@ -1,4 +1,4 @@
-# Small-projects-from-bootcamp
+# Small projects from bootcamp
 this repository contains my latest works from joyrney of learning programming as Data Scientis. You will see here:
 - Python
   - Basics
@@ -11,5 +11,5 @@ this repository contains my latest works from joyrney of learning programming as
   - KNN
   - KMeans
 - Deep Learnign
-  - Keras
-  - Optimization
+  - Artificial Neutral Networks - classification
+  - Convolutional Neutral Networks - image recognition and classification
